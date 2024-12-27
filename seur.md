@@ -1,8 +1,8 @@
-¿Qué hacer si SEUR no te manda la factura del servicio?
+# ¿Qué hacer si SEUR no te manda la factura del servicio?
 
 Pues no vayas a la OMIC ni a consumo porque es perder el tiempo!
 
-Reclamación en Hacienda si no te facilitan la factura....
+### Reclamación en Hacienda si no te facilitan la factura....
 
 AGENCIA ESTATAL DE ADMINISTRACIÓN TRIBUTARIA
 ADMINISTRACIÓN DE MARÍA DE MOLINA
@@ -29,7 +29,7 @@ En Madrid, a 2 de MARZO de 2024.
 
 Fdo. Tu nombre.
 
-LUEGO, vas a: https://sede.agenciatributaria.gob.es/Sede/registro.html
+### LUEGO, vas a: https://sede.agenciatributaria.gob.es/Sede/registro.html
 
 1.- Presenta documentación, realiza alegaciones y contesta a los requerimientos si has recibido una comunicación de la Agencia Tributaria
 
@@ -41,7 +41,7 @@ Registro electrónico de documentos de la Agencia Tributaria
 
 RELLENAS Y MANDAS.
 .........................................................................................................................................................................
-Simultaneamente, te recomiendo que les pongas un 
+## Simultaneamente, te recomiendo que les pongas un 
 
 JUICIO VERBAL 
 AL JUZGADO 
